@@ -1,0 +1,179 @@
+
+body {
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    
+
+}
+
+.logo1 {
+    text-align: center;
+    border-radius: 40%;
+    margin: auto;
+    display:block;
+    padding-top: 5%;
+
+
+    
+
+    height: auto;
+}
+
+input {
+    width:30%;
+    border-style: dashed;
+}
+
+.first_container {
+    background-color:#C2DEDC;
+
+    padding-bottom: 3%;
+
+    
+}
+
+.second_container {
+    background-color:#e2ebea;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+ 
+}
+
+.third_container {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    background-color:#C2DEDC;
+    
+}
+
+
+
+.title {
+    font-family: 'Style Script', cursive;
+    text-align: center;
+    color: #116A7B;
+
+}
+
+.tt {
+    font-family: 'Style Script', cursive;
+
+}
+
+.dis {
+    text-align: center;
+    color: #548a95;
+    font-weight: 100;
+
+}
+.one_img {
+    float:left;
+    position:fixed;
+    margin:1%;
+    width: 5%;
+}
+
+.fs_con {
+    margin: auto;
+    padding: 3%;
+    width: 35%;
+}
+
+.ss_con {
+    margin: auto;
+    padding: 3%;
+    width: 35%;
+}
+
+.logo_a {
+    float:left;
+    padding-top: 3%;
+}
+
+.text_a {
+    text-align:left;
+    margin-bottom: 0;
+    position:relative;
+    left:7%;
+}
+
+.text_b {
+    text-align:left;
+    margin-top: 2%;
+    position:relative;
+    left:7%;
+}
+
+.logo_b {
+    float:right;
+    padding-top: 3%;
+}
+
+.text_c {
+    text-align:right;
+    margin-bottom: 0;
+    position:relative;
+    right:7%;
+}
+
+.text_d {
+    text-align:right;
+    margin-top: 2%;
+    position:relative;
+    right:7%;
+}
+
+.text_e {
+    color: #116A7B;
+}
+
+.text_f {
+    color: #548a95;
+    padding-bottom: 20px;
+}
+
+
+
+.text_h {
+    padding-top: 20px;
+    color: #116A7B;
+}
+
+.text_i {
+    padding-bottom: 20px;
+    color: #548a95;
+}
+
+
+
+
+
+  .btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #116A7B;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width:10%;
+    margin: auto;
+  }
+
+  .btn:hover {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #116A7B);
+    background-image: -moz-linear-gradient(top, #ffffff, #116A7B);
+    background-image: -ms-linear-gradient(top, #ffffff, #116A7B);
+    background-image: -o-linear-gradient(top, #ffffff, #116A7B);
+    background-image: linear-gradient(to bottom, #ffffff, #116A7B);
+    text-decoration: none;
+  }
+
+
